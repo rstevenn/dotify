@@ -1,6 +1,6 @@
 # Dotify
 a basic utility to add a dot matrix effect to an image
-with minimal control on the output
+with basic control on the output
 
 # Dependencies
 - python3
